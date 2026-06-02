@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/ishandutta2007/deepjazz/pull/2) in [ishandutta2007/deepjazz](https://github.com/ishandutta2007/deepjazz)
-2. ❌ Closed PR [#3](https://github.com/ishandutta2007/tensorflow/pull/3) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
-3. ❌ Closed PR [#3](https://github.com/ishandutta2007/OpenPeriscope/pull/3) in [ishandutta2007/OpenPeriscope](https://github.com/ishandutta2007/OpenPeriscope)
-4. ❌ Closed PR [#3](https://github.com/ishandutta2007/Awesome-CoreML-Models/pull/3) in [ishandutta2007/Awesome-CoreML-Models](https://github.com/ishandutta2007/Awesome-CoreML-Models)
-5. ❌ Closed PR [#3](https://github.com/ishandutta2007/WaveView/pull/3) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+1. ❌ Closed PR [#5](https://github.com/ishandutta2007/bots/pull/5) in [ishandutta2007/bots](https://github.com/ishandutta2007/bots)
+2. 🗣 Commented on [#5](https://github.com/ishandutta2007/bots/issues/5) in [ishandutta2007/bots](https://github.com/ishandutta2007/bots)
+3. ❌ Closed PR [#3](https://github.com/ishandutta2007/Blender-power-sequencer/pull/3) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
+4. 🗣 Commented on [#3](https://github.com/ishandutta2007/Blender-power-sequencer/issues/3) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
+5. ❌ Closed PR [#36](https://github.com/ishandutta2007/api-management-developer-portal/pull/36) in [ishandutta2007/api-management-developer-portal](https://github.com/ishandutta2007/api-management-developer-portal)
 <!--END_SECTION:activity-->
 
 </details>
