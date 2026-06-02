@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#371](https://github.com/torahcalc/torahcalc/pull/371) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-2. 💪 Opened PR [#371](https://github.com/torahcalc/torahcalc/pull/371) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-3. ❌ Merged PR [#370](https://github.com/torahcalc/torahcalc/pull/370) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-4. 💪 Opened PR [#370](https://github.com/torahcalc/torahcalc/pull/370) in [torahcalc/torahcalc](https://github.com/torahcalc/torahcalc)
-5. ❌ Merged PR [#1](https://github.com/DenverCoderOne/PretendYoureXyzzy/pull/1) in [DenverCoderOne/PretendYoureXyzzy](https://github.com/DenverCoderOne/PretendYoureXyzzy)
+1. ❌ Closed PR [#2](https://github.com/ishandutta2007/deepjazz/pull/2) in [ishandutta2007/deepjazz](https://github.com/ishandutta2007/deepjazz)
+2. ❌ Closed PR [#3](https://github.com/ishandutta2007/tensorflow/pull/3) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
+3. ❌ Closed PR [#3](https://github.com/ishandutta2007/OpenPeriscope/pull/3) in [ishandutta2007/OpenPeriscope](https://github.com/ishandutta2007/OpenPeriscope)
+4. ❌ Closed PR [#3](https://github.com/ishandutta2007/Awesome-CoreML-Models/pull/3) in [ishandutta2007/Awesome-CoreML-Models](https://github.com/ishandutta2007/Awesome-CoreML-Models)
+5. ❌ Closed PR [#3](https://github.com/ishandutta2007/WaveView/pull/3) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
 </details>
