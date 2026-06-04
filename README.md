@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#5](https://github.com/ishandutta2007/bots/pull/5) in [ishandutta2007/bots](https://github.com/ishandutta2007/bots)
-2. 🗣 Commented on [#5](https://github.com/ishandutta2007/bots/issues/5) in [ishandutta2007/bots](https://github.com/ishandutta2007/bots)
-3. ❌ Closed PR [#3](https://github.com/ishandutta2007/Blender-power-sequencer/pull/3) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
-4. 🗣 Commented on [#3](https://github.com/ishandutta2007/Blender-power-sequencer/issues/3) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
-5. ❌ Closed PR [#36](https://github.com/ishandutta2007/api-management-developer-portal/pull/36) in [ishandutta2007/api-management-developer-portal](https://github.com/ishandutta2007/api-management-developer-portal)
+1. 🗣 Commented on [#5](https://github.com/ishandutta2007/watchdog/issues/5) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
+2. 🗣 Commented on [#15](https://github.com/ishandutta2007/vinaysomawat.github.io/issues/15) in [ishandutta2007/vinaysomawat.github.io](https://github.com/ishandutta2007/vinaysomawat.github.io)
+3. 🗣 Commented on [#4](https://github.com/ishandutta2007/sql.js/issues/4) in [ishandutta2007/sql.js](https://github.com/ishandutta2007/sql.js)
+4. 🗣 Commented on [#4](https://github.com/ishandutta2007/SidebarTransitions/issues/4) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
+5. 🗣 Commented on [#6](https://github.com/ishandutta2007/redux/issues/6) in [ishandutta2007/redux](https://github.com/ishandutta2007/redux)
 <!--END_SECTION:activity-->
 
 </details>
