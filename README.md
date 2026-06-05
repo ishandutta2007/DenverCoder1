@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/ishandutta2007/watchdog/issues/5) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
-2. 🗣 Commented on [#15](https://github.com/ishandutta2007/vinaysomawat.github.io/issues/15) in [ishandutta2007/vinaysomawat.github.io](https://github.com/ishandutta2007/vinaysomawat.github.io)
-3. 🗣 Commented on [#4](https://github.com/ishandutta2007/sql.js/issues/4) in [ishandutta2007/sql.js](https://github.com/ishandutta2007/sql.js)
-4. 🗣 Commented on [#4](https://github.com/ishandutta2007/SidebarTransitions/issues/4) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
-5. 🗣 Commented on [#6](https://github.com/ishandutta2007/redux/issues/6) in [ishandutta2007/redux](https://github.com/ishandutta2007/redux)
+1. 🗣 Commented on [#7](https://github.com/ishandutta2007/zone.js/issues/7) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. ❌ Closed PR [#7](https://github.com/ishandutta2007/zone.js/pull/7) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#5](https://github.com/ishandutta2007/youtube-explore/pull/5) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+4. 🗣 Commented on [#5](https://github.com/ishandutta2007/youtube-explore/issues/5) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+5. ❌ Closed PR [#7](https://github.com/ishandutta2007/Waves/pull/7) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
 <!--END_SECTION:activity-->
 
 </details>
