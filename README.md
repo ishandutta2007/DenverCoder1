@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#7](https://github.com/ishandutta2007/youtube-explore/pull/7) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-2. 🗣 Commented on [#7](https://github.com/ishandutta2007/youtube-explore/issues/7) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-3. ❌ Closed PR [#9](https://github.com/ishandutta2007/Waves/pull/9) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
-4. 🗣 Commented on [#9](https://github.com/ishandutta2007/Waves/issues/9) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
-5. ❌ Closed PR [#10](https://github.com/ishandutta2007/waveglow/pull/10) in [ishandutta2007/waveglow](https://github.com/ishandutta2007/waveglow)
+1. ❌ Closed PR [#8](https://github.com/ishandutta2007/SidebarTransitions/pull/8) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
+2. 🗣 Commented on [#8](https://github.com/ishandutta2007/SidebarTransitions/issues/8) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
+3. ❌ Closed PR [#8](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/pull/8) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
+4. 🗣 Commented on [#8](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/issues/8) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
+5. 🗣 Commented on [#8](https://github.com/ishandutta2007/zone.js/issues/8) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
 <!--END_SECTION:activity-->
 
 </details>
