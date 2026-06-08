@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#8](https://github.com/ishandutta2007/SidebarTransitions/pull/8) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
-2. 🗣 Commented on [#8](https://github.com/ishandutta2007/SidebarTransitions/issues/8) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
-3. ❌ Closed PR [#8](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/pull/8) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
-4. 🗣 Commented on [#8](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/issues/8) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
-5. 🗣 Commented on [#8](https://github.com/ishandutta2007/zone.js/issues/8) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+1. ❌ Merged PR [#1](https://github.com/ishandutta2007/manage-github-pull-requests/pull/1) in [ishandutta2007/manage-github-pull-requests](https://github.com/ishandutta2007/manage-github-pull-requests)
+2. 💪 Opened PR [#1](https://github.com/ishandutta2007/manage-github-pull-requests/pull/1) in [ishandutta2007/manage-github-pull-requests](https://github.com/ishandutta2007/manage-github-pull-requests)
+3. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Virtual-Assistant-AI-Agents/issues/2) in [ishandutta2007/Awesome-Virtual-Assistant-AI-Agents](https://github.com/ishandutta2007/Awesome-Virtual-Assistant-AI-Agents)
+4. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Vertical-AI-ERP/issues/1) in [ishandutta2007/Awesome-Vertical-AI-ERP](https://github.com/ishandutta2007/Awesome-Vertical-AI-ERP)
+5. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Self-Improving-AI-Agents/issues/2) in [ishandutta2007/Awesome-Self-Improving-AI-Agents](https://github.com/ishandutta2007/Awesome-Self-Improving-AI-Agents)
 <!--END_SECTION:activity-->
 
 </details>
