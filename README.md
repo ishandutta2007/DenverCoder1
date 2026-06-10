@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#1](https://github.com/ishandutta2007/manage-github-pull-requests/pull/1) in [ishandutta2007/manage-github-pull-requests](https://github.com/ishandutta2007/manage-github-pull-requests)
-2. 💪 Opened PR [#1](https://github.com/ishandutta2007/manage-github-pull-requests/pull/1) in [ishandutta2007/manage-github-pull-requests](https://github.com/ishandutta2007/manage-github-pull-requests)
-3. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Virtual-Assistant-AI-Agents/issues/2) in [ishandutta2007/Awesome-Virtual-Assistant-AI-Agents](https://github.com/ishandutta2007/Awesome-Virtual-Assistant-AI-Agents)
-4. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Vertical-AI-ERP/issues/1) in [ishandutta2007/Awesome-Vertical-AI-ERP](https://github.com/ishandutta2007/Awesome-Vertical-AI-ERP)
-5. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Self-Improving-AI-Agents/issues/2) in [ishandutta2007/Awesome-Self-Improving-AI-Agents](https://github.com/ishandutta2007/Awesome-Self-Improving-AI-Agents)
+1. 🗣 Commented on [#20](https://github.com/ishandutta2007/vinaysomawat.github.io/issues/20) in [ishandutta2007/vinaysomawat.github.io](https://github.com/ishandutta2007/vinaysomawat.github.io)
+2. 🗣 Commented on [#11](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/11) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
+3. 🗣 Commented on [#10](https://github.com/ishandutta2007/srs/issues/10) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+4. 🗣 Commented on [#14](https://github.com/ishandutta2007/selectivity/issues/14) in [ishandutta2007/selectivity](https://github.com/ishandutta2007/selectivity)
+5. 🗣 Commented on [#14](https://github.com/ishandutta2007/pykiteconnect/issues/14) in [ishandutta2007/pykiteconnect](https://github.com/ishandutta2007/pykiteconnect)
 <!--END_SECTION:activity-->
 
 </details>
