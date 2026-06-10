@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/ishandutta2007/vinaysomawat.github.io/issues/20) in [ishandutta2007/vinaysomawat.github.io](https://github.com/ishandutta2007/vinaysomawat.github.io)
-2. 🗣 Commented on [#11](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/11) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-3. 🗣 Commented on [#10](https://github.com/ishandutta2007/srs/issues/10) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
-4. 🗣 Commented on [#14](https://github.com/ishandutta2007/selectivity/issues/14) in [ishandutta2007/selectivity](https://github.com/ishandutta2007/selectivity)
-5. 🗣 Commented on [#14](https://github.com/ishandutta2007/pykiteconnect/issues/14) in [ishandutta2007/pykiteconnect](https://github.com/ishandutta2007/pykiteconnect)
+1. 🗣 Commented on [#11](https://github.com/ishandutta2007/zone.js/issues/11) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. ❌ Closed PR [#11](https://github.com/ishandutta2007/zone.js/pull/11) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#12](https://github.com/ishandutta2007/youtube-explore/pull/12) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+4. 🗣 Commented on [#12](https://github.com/ishandutta2007/youtube-explore/issues/12) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+5. ❌ Closed PR [#11](https://github.com/ishandutta2007/WaveView/pull/11) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
 </details>
