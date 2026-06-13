@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#12](https://github.com/ishandutta2007/rxdb/pull/12) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-2. 🗣 Commented on [#12](https://github.com/ishandutta2007/rxdb/issues/12) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-3. ❌ Closed PR [#15](https://github.com/ishandutta2007/models/pull/15) in [ishandutta2007/models](https://github.com/ishandutta2007/models)
-4. 🗣 Commented on [#15](https://github.com/ishandutta2007/models/issues/15) in [ishandutta2007/models](https://github.com/ishandutta2007/models)
-5. ❗️ Closed issue [#8](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/8) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
+1. ❌ Merged PR [#1](https://github.com/ishandutta2007/Awesome-Vector-Databases/pull/1) in [ishandutta2007/Awesome-Vector-Databases](https://github.com/ishandutta2007/Awesome-Vector-Databases)
+2. 💪 Opened PR [#1](https://github.com/ishandutta2007/Awesome-Vector-Databases/pull/1) in [ishandutta2007/Awesome-Vector-Databases](https://github.com/ishandutta2007/Awesome-Vector-Databases)
+3. ❌ Closed PR [#13](https://github.com/ishandutta2007/rxdb/pull/13) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+4. 🗣 Commented on [#13](https://github.com/ishandutta2007/rxdb/issues/13) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+5. ❌ Closed PR [#16](https://github.com/ishandutta2007/models/pull/16) in [ishandutta2007/models](https://github.com/ishandutta2007/models)
 <!--END_SECTION:activity-->
 
 </details>
