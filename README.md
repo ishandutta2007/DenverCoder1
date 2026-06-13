@@ -283,8 +283,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#1](https://github.com/ishandutta2007/Awesome-Vector-Databases/pull/1) in [ishandutta2007/Awesome-Vector-Databases](https://github.com/ishandutta2007/Awesome-Vector-Databases)
-2. 💪 Opened PR [#1](https://github.com/ishandutta2007/Awesome-Vector-Databases/pull/1) in [ishandutta2007/Awesome-Vector-Databases](https://github.com/ishandutta2007/Awesome-Vector-Databases)
+1. ❌ Merged PR [#2](https://github.com/ishandutta2007/developing-data-products-shiny/pull/2) in [ishandutta2007/developing-data-products-shiny](https://github.com/ishandutta2007/developing-data-products-shiny)
+2. 💪 Opened PR [#2](https://github.com/ishandutta2007/developing-data-products-shiny/pull/2) in [ishandutta2007/developing-data-products-shiny](https://github.com/ishandutta2007/developing-data-products-shiny)
 3. ❌ Closed PR [#13](https://github.com/ishandutta2007/rxdb/pull/13) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
 4. 🗣 Commented on [#13](https://github.com/ishandutta2007/rxdb/issues/13) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
 5. ❌ Closed PR [#16](https://github.com/ishandutta2007/models/pull/16) in [ishandutta2007/models](https://github.com/ishandutta2007/models)
