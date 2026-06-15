@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#2](https://github.com/ishandutta2007/developing-data-products-shiny/pull/2) in [ishandutta2007/developing-data-products-shiny](https://github.com/ishandutta2007/developing-data-products-shiny)
-2. 💪 Opened PR [#2](https://github.com/ishandutta2007/developing-data-products-shiny/pull/2) in [ishandutta2007/developing-data-products-shiny](https://github.com/ishandutta2007/developing-data-products-shiny)
-3. ❌ Closed PR [#13](https://github.com/ishandutta2007/rxdb/pull/13) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-4. 🗣 Commented on [#13](https://github.com/ishandutta2007/rxdb/issues/13) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-5. ❌ Closed PR [#16](https://github.com/ishandutta2007/models/pull/16) in [ishandutta2007/models](https://github.com/ishandutta2007/models)
+1. ❌ Closed PR [#14](https://github.com/ishandutta2007/zone.js/pull/14) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. 🗣 Commented on [#14](https://github.com/ishandutta2007/zone.js/issues/14) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#18](https://github.com/ishandutta2007/Waves/pull/18) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
+4. 🗣 Commented on [#18](https://github.com/ishandutta2007/Waves/issues/18) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
+5. 🗣 Commented on [#19](https://github.com/ishandutta2007/waveglow/issues/19) in [ishandutta2007/waveglow](https://github.com/ishandutta2007/waveglow)
 <!--END_SECTION:activity-->
 
 </details>
