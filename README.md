@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#16](https://github.com/ishandutta2007/youtube-explore/pull/16) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-2. 🗣 Commented on [#16](https://github.com/ishandutta2007/youtube-explore/issues/16) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-3. ❌ Closed PR [#15](https://github.com/ishandutta2007/WaveView/pull/15) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
-4. 🗣 Commented on [#15](https://github.com/ishandutta2007/WaveView/issues/15) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
-5. ❌ Closed PR [#18](https://github.com/ishandutta2007/watchdog/pull/18) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
+1. ❌ Closed PR [#17](https://github.com/ishandutta2007/instagram-last/pull/17) in [ishandutta2007/instagram-last](https://github.com/ishandutta2007/instagram-last)
+2. 🗣 Commented on [#15](https://github.com/ishandutta2007/OpenPeriscope/issues/15) in [ishandutta2007/OpenPeriscope](https://github.com/ishandutta2007/OpenPeriscope)
+3. 🗣 Commented on [#20](https://github.com/ishandutta2007/android_guides/issues/20) in [ishandutta2007/android_guides](https://github.com/ishandutta2007/android_guides)
+4. 🗣 Commented on [#20](https://github.com/ishandutta2007/waveglow/issues/20) in [ishandutta2007/waveglow](https://github.com/ishandutta2007/waveglow)
+5. 🗣 Commented on [#19](https://github.com/ishandutta2007/Waves/issues/19) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
 <!--END_SECTION:activity-->
 
 </details>
