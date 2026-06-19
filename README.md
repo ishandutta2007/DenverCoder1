@@ -283,8 +283,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#17](https://github.com/ishandutta2007/zone.js/pull/17) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-2. ❌ Closed PR [#19](https://github.com/ishandutta2007/youtube-explore/pull/19) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+1. ❗️ Closed issue [#2](https://github.com/ishandutta2007/ishandutta2007/issues/2) in [ishandutta2007/ishandutta2007](https://github.com/ishandutta2007/ishandutta2007)
+2. ❗️ Closed issue [#10](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/10) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
 3. 🗣 Commented on [#18](https://github.com/ishandutta2007/WaveView/issues/18) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 4. ❌ Closed PR [#21](https://github.com/ishandutta2007/Waves/pull/21) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
 5. 🗣 Commented on [#21](https://github.com/ishandutta2007/Waves/issues/21) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
