@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#17](https://github.com/ishandutta2007/material-range-bar/pull/17) in [ishandutta2007/material-range-bar](https://github.com/ishandutta2007/material-range-bar)
-2. 🗣 Commented on [#17](https://github.com/ishandutta2007/material-range-bar/issues/17) in [ishandutta2007/material-range-bar](https://github.com/ishandutta2007/material-range-bar)
-3. ❌ Closed PR [#16](https://github.com/ishandutta2007/GalaxyExplorer/pull/16) in [ishandutta2007/GalaxyExplorer](https://github.com/ishandutta2007/GalaxyExplorer)
-4. 🗣 Commented on [#16](https://github.com/ishandutta2007/GalaxyExplorer/issues/16) in [ishandutta2007/GalaxyExplorer](https://github.com/ishandutta2007/GalaxyExplorer)
-5. 🗣 Commented on [#20](https://github.com/ishandutta2007/understanding-ai/issues/20) in [ishandutta2007/understanding-ai](https://github.com/ishandutta2007/understanding-ai)
+1. ❌ Closed PR [#17](https://github.com/ishandutta2007/zone.js/pull/17) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. ❌ Closed PR [#19](https://github.com/ishandutta2007/youtube-explore/pull/19) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+3. 🗣 Commented on [#18](https://github.com/ishandutta2007/WaveView/issues/18) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+4. ❌ Closed PR [#21](https://github.com/ishandutta2007/Waves/pull/21) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
+5. 🗣 Commented on [#21](https://github.com/ishandutta2007/Waves/issues/21) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
 <!--END_SECTION:activity-->
 
 </details>
