@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#23](https://github.com/ishandutta2007/waveglow/pull/23) in [ishandutta2007/waveglow](https://github.com/ishandutta2007/waveglow)
-2. ❌ Closed PR [#21](https://github.com/ishandutta2007/twitter-scraper/pull/21) in [ishandutta2007/twitter-scraper](https://github.com/ishandutta2007/twitter-scraper)
-3. ❌ Closed PR [#20](https://github.com/ishandutta2007/Theano/pull/20) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
-4. 🗣 Commented on [#20](https://github.com/ishandutta2007/Theano/issues/20) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
-5. 🗣 Commented on [#23](https://github.com/ishandutta2007/stroll.js/issues/23) in [ishandutta2007/stroll.js](https://github.com/ishandutta2007/stroll.js)
+1. ❌ Closed PR [#19](https://github.com/ishandutta2007/zone.js/pull/19) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. ❌ Closed PR [#21](https://github.com/ishandutta2007/youtube-explore/pull/21) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+3. ❌ Closed PR [#19](https://github.com/ishandutta2007/super-mario-neat/pull/19) in [ishandutta2007/super-mario-neat](https://github.com/ishandutta2007/super-mario-neat)
+4. ❌ Closed PR [#19](https://github.com/ishandutta2007/srs/pull/19) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+5. ❌ Closed PR [#20](https://github.com/ishandutta2007/SidebarTransitions/pull/20) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
 <!--END_SECTION:activity-->
 
 </details>
