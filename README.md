@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#19](https://github.com/ishandutta2007/zone.js/pull/19) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-2. ❌ Closed PR [#21](https://github.com/ishandutta2007/youtube-explore/pull/21) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-3. ❌ Closed PR [#19](https://github.com/ishandutta2007/super-mario-neat/pull/19) in [ishandutta2007/super-mario-neat](https://github.com/ishandutta2007/super-mario-neat)
-4. ❌ Closed PR [#19](https://github.com/ishandutta2007/srs/pull/19) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
-5. ❌ Closed PR [#20](https://github.com/ishandutta2007/SidebarTransitions/pull/20) in [ishandutta2007/SidebarTransitions](https://github.com/ishandutta2007/SidebarTransitions)
+1. 🗣 Commented on [#42](https://github.com/ishandutta2007/hugo-toha.github.io/issues/42) in [ishandutta2007/hugo-toha.github.io](https://github.com/ishandutta2007/hugo-toha.github.io)
+2. 🗣 Commented on [#18](https://github.com/ishandutta2007/better_bing_image_downloader/issues/18) in [ishandutta2007/better_bing_image_downloader](https://github.com/ishandutta2007/better_bing_image_downloader)
+3. 🗣 Commented on [#55](https://github.com/ishandutta2007/react-navigation.github.io/issues/55) in [ishandutta2007/react-navigation.github.io](https://github.com/ishandutta2007/react-navigation.github.io)
+4. 🗣 Commented on [#22](https://github.com/ishandutta2007/react-native-webrtc/issues/22) in [ishandutta2007/react-native-webrtc](https://github.com/ishandutta2007/react-native-webrtc)
+5. 🗣 Commented on [#23](https://github.com/ishandutta2007/pykiteconnect/issues/23) in [ishandutta2007/pykiteconnect](https://github.com/ishandutta2007/pykiteconnect)
 <!--END_SECTION:activity-->
 
 </details>
