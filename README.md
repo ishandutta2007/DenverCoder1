@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#12](https://github.com/ishandutta2007/Velocity/issues/12) in [ishandutta2007/Velocity](https://github.com/ishandutta2007/Velocity)
-2. 🗣 Commented on [#42](https://github.com/ishandutta2007/hugo-toha.github.io/issues/42) in [ishandutta2007/hugo-toha.github.io](https://github.com/ishandutta2007/hugo-toha.github.io)
-3. 🗣 Commented on [#18](https://github.com/ishandutta2007/better_bing_image_downloader/issues/18) in [ishandutta2007/better_bing_image_downloader](https://github.com/ishandutta2007/better_bing_image_downloader)
-4. 🗣 Commented on [#55](https://github.com/ishandutta2007/react-navigation.github.io/issues/55) in [ishandutta2007/react-navigation.github.io](https://github.com/ishandutta2007/react-navigation.github.io)
-5. 🗣 Commented on [#22](https://github.com/ishandutta2007/react-native-webrtc/issues/22) in [ishandutta2007/react-native-webrtc](https://github.com/ishandutta2007/react-native-webrtc)
+1. 🗣 Commented on [#20](https://github.com/ishandutta2007/zone.js/issues/20) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. 🗣 Commented on [#21](https://github.com/ishandutta2007/WaveView/issues/21) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+3. 🗣 Commented on [#22](https://github.com/ishandutta2007/Theano/issues/22) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+4. 🗣 Commented on [#24](https://github.com/ishandutta2007/slimbot/issues/24) in [ishandutta2007/slimbot](https://github.com/ishandutta2007/slimbot)
+5. 🗣 Commented on [#24](https://github.com/ishandutta2007/selectivity/issues/24) in [ishandutta2007/selectivity](https://github.com/ishandutta2007/selectivity)
 <!--END_SECTION:activity-->
 
 </details>
