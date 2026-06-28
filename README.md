@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#31](https://github.com/ishandutta2007/Top-AI-repos/issues/31) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-2. 🗣 Commented on [#31](https://github.com/ishandutta2007/Top-AI-repos/issues/31) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-3. 🗣 Commented on [#31](https://github.com/ishandutta2007/Top-AI-repos/issues/31) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-4. 🗣 Commented on [#31](https://github.com/ishandutta2007/Top-AI-repos/issues/31) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-5. 🗣 Commented on [#24](https://github.com/ishandutta2007/selectivity/issues/24) in [ishandutta2007/selectivity](https://github.com/ishandutta2007/selectivity)
+1. ❌ Closed PR [#23](https://github.com/ishandutta2007/train-robot-arm-from-scratch/pull/23) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
+2. 🗣 Commented on [#23](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/23) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
+3. ❌ Closed PR [#23](https://github.com/ishandutta2007/crystal-range-seekbar/pull/23) in [ishandutta2007/crystal-range-seekbar](https://github.com/ishandutta2007/crystal-range-seekbar)
+4. 🗣 Commented on [#23](https://github.com/ishandutta2007/crystal-range-seekbar/issues/23) in [ishandutta2007/crystal-range-seekbar](https://github.com/ishandutta2007/crystal-range-seekbar)
+5. ❌ Closed PR [#23](https://github.com/ishandutta2007/babble/pull/23) in [ishandutta2007/babble](https://github.com/ishandutta2007/babble)
 <!--END_SECTION:activity-->
 
 </details>
