@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#23](https://github.com/ishandutta2007/train-robot-arm-from-scratch/pull/23) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-2. 🗣 Commented on [#23](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/23) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-3. ❌ Closed PR [#23](https://github.com/ishandutta2007/crystal-range-seekbar/pull/23) in [ishandutta2007/crystal-range-seekbar](https://github.com/ishandutta2007/crystal-range-seekbar)
-4. 🗣 Commented on [#23](https://github.com/ishandutta2007/crystal-range-seekbar/issues/23) in [ishandutta2007/crystal-range-seekbar](https://github.com/ishandutta2007/crystal-range-seekbar)
-5. ❌ Closed PR [#23](https://github.com/ishandutta2007/babble/pull/23) in [ishandutta2007/babble](https://github.com/ishandutta2007/babble)
+1. ❌ Closed PR [#26](https://github.com/ishandutta2007/twitter-scraper/pull/26) in [ishandutta2007/twitter-scraper](https://github.com/ishandutta2007/twitter-scraper)
+2. 🗣 Commented on [#26](https://github.com/ishandutta2007/twitter-scraper/issues/26) in [ishandutta2007/twitter-scraper](https://github.com/ishandutta2007/twitter-scraper)
+3. ❌ Closed PR [#24](https://github.com/ishandutta2007/train-robot-arm-from-scratch/pull/24) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
+4. 🗣 Commented on [#24](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/24) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
+5. ❌ Closed PR [#28](https://github.com/ishandutta2007/redux/pull/28) in [ishandutta2007/redux](https://github.com/ishandutta2007/redux)
 <!--END_SECTION:activity-->
 
 </details>
