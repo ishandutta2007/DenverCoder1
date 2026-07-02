@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#26](https://github.com/ishandutta2007/twitter-scraper/pull/26) in [ishandutta2007/twitter-scraper](https://github.com/ishandutta2007/twitter-scraper)
-2. 🗣 Commented on [#26](https://github.com/ishandutta2007/twitter-scraper/issues/26) in [ishandutta2007/twitter-scraper](https://github.com/ishandutta2007/twitter-scraper)
-3. ❌ Closed PR [#24](https://github.com/ishandutta2007/train-robot-arm-from-scratch/pull/24) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-4. 🗣 Commented on [#24](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/24) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-5. ❌ Closed PR [#28](https://github.com/ishandutta2007/redux/pull/28) in [ishandutta2007/redux](https://github.com/ishandutta2007/redux)
+1. ❌ Closed PR [#27](https://github.com/ishandutta2007/free-api/pull/27) in [ishandutta2007/free-api](https://github.com/ishandutta2007/free-api)
+2. 🗣 Commented on [#27](https://github.com/ishandutta2007/free-api/issues/27) in [ishandutta2007/free-api](https://github.com/ishandutta2007/free-api)
+3. 🗣 Commented on [#25](https://github.com/ishandutta2007/Blender-power-sequencer/issues/25) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
+4. ❌ Closed PR [#25](https://github.com/ishandutta2007/Blender-power-sequencer/pull/25) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
+5. ❌ Closed PR [#24](https://github.com/ishandutta2007/awesome-tensorflow/pull/24) in [ishandutta2007/awesome-tensorflow](https://github.com/ishandutta2007/awesome-tensorflow)
 <!--END_SECTION:activity-->
 
 </details>
