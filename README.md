@@ -283,7 +283,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#27](https://github.com/ishandutta2007/free-api/pull/27) in [ishandutta2007/free-api](https://github.com/ishandutta2007/free-api)
+1. ❗️ Closed issue [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
 2. 🗣 Commented on [#27](https://github.com/ishandutta2007/free-api/issues/27) in [ishandutta2007/free-api](https://github.com/ishandutta2007/free-api)
 3. 🗣 Commented on [#25](https://github.com/ishandutta2007/Blender-power-sequencer/issues/25) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
 4. ❌ Closed PR [#25](https://github.com/ishandutta2007/Blender-power-sequencer/pull/25) in [ishandutta2007/Blender-power-sequencer](https://github.com/ishandutta2007/Blender-power-sequencer)
