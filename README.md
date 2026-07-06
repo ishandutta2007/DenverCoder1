@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#17](https://github.com/ishandutta2007/tensorflow/issues/17) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
-2. ❌ Closed PR [#17](https://github.com/ishandutta2007/tensorflow/pull/17) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
-3. ❌ Closed PR [#25](https://github.com/ishandutta2007/rxdb/pull/25) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-4. 🗣 Commented on [#25](https://github.com/ishandutta2007/rxdb/issues/25) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-5. ❌ Closed PR [#29](https://github.com/ishandutta2007/free-api/pull/29) in [ishandutta2007/free-api](https://github.com/ishandutta2007/free-api)
+1. 🗣 Commented on [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
+2. ❗️ Reopened issue [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
+3. 🗣 Commented on [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
+4. ❌ Closed PR [#38](https://github.com/ishandutta2007/Top-AI-repos/pull/38) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
+5. ❌ Closed PR [#29](https://github.com/ishandutta2007/youtube-explore/pull/29) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
 <!--END_SECTION:activity-->
 
 </details>
