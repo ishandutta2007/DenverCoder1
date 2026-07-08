@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-2. ❗️ Reopened issue [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-3. 🗣 Commented on [#26](https://github.com/ishandutta2007/Top-AI-repos/issues/26) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-4. ❌ Closed PR [#38](https://github.com/ishandutta2007/Top-AI-repos/pull/38) in [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
-5. ❌ Closed PR [#29](https://github.com/ishandutta2007/youtube-explore/pull/29) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+1. ❌ Closed PR [#30](https://github.com/ishandutta2007/youtube-explore/pull/30) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+2. ❌ Closed PR [#32](https://github.com/ishandutta2007/watchdog/pull/32) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
+3. 🗣 Commented on [#30](https://github.com/ishandutta2007/youtube-explore/issues/30) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+4. 🗣 Commented on [#32](https://github.com/ishandutta2007/watchdog/issues/32) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
+5. ❌ Closed PR [#32](https://github.com/ishandutta2007/understanding-ai/pull/32) in [ishandutta2007/understanding-ai](https://github.com/ishandutta2007/understanding-ai)
 <!--END_SECTION:activity-->
 
 </details>
