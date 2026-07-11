@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#32](https://github.com/ishandutta2007/youtube-explore/pull/32) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-2. 🗣 Commented on [#32](https://github.com/ishandutta2007/youtube-explore/issues/32) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-3. ❌ Closed PR [#34](https://github.com/ishandutta2007/watchdog/pull/34) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
-4. 🗣 Commented on [#34](https://github.com/ishandutta2007/watchdog/issues/34) in [ishandutta2007/watchdog](https://github.com/ishandutta2007/watchdog)
-5. ❌ Closed PR [#34](https://github.com/ishandutta2007/understanding-ai/pull/34) in [ishandutta2007/understanding-ai](https://github.com/ishandutta2007/understanding-ai)
+1. ❌ Closed PR [#30](https://github.com/ishandutta2007/zone.js/pull/30) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. 🗣 Commented on [#30](https://github.com/ishandutta2007/zone.js/issues/30) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#31](https://github.com/ishandutta2007/WaveView/pull/31) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+4. 🗣 Commented on [#31](https://github.com/ishandutta2007/WaveView/issues/31) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+5. 🗣 Commented on [#34](https://github.com/ishandutta2007/Waves/issues/34) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
 <!--END_SECTION:activity-->
 
 </details>
