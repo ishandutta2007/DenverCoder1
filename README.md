@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#31](https://github.com/ishandutta2007/zone.js/pull/31) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-2. 🗣 Commented on [#31](https://github.com/ishandutta2007/zone.js/issues/31) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-3. ❌ Closed PR [#32](https://github.com/ishandutta2007/WaveView/pull/32) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
-4. 🗣 Commented on [#32](https://github.com/ishandutta2007/WaveView/issues/32) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
-5. ❌ Closed PR [#35](https://github.com/ishandutta2007/Waves/pull/35) in [ishandutta2007/Waves](https://github.com/ishandutta2007/Waves)
+1. ❌ Closed PR [#21](https://github.com/ishandutta2007/tensorflow/pull/21) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
+2. 🗣 Commented on [#21](https://github.com/ishandutta2007/tensorflow/issues/21) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
+3. 🗣 Commented on [#30](https://github.com/ishandutta2007/rxdb/issues/30) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+4. ❌ Closed PR [#30](https://github.com/ishandutta2007/rxdb/pull/30) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+5. ❌ Closed PR [#32](https://github.com/ishandutta2007/zone.js/pull/32) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
 <!--END_SECTION:activity-->
 
 </details>
