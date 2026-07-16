@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#21](https://github.com/ishandutta2007/tensorflow/pull/21) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
-2. 🗣 Commented on [#21](https://github.com/ishandutta2007/tensorflow/issues/21) in [ishandutta2007/tensorflow](https://github.com/ishandutta2007/tensorflow)
-3. 🗣 Commented on [#30](https://github.com/ishandutta2007/rxdb/issues/30) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-4. ❌ Closed PR [#30](https://github.com/ishandutta2007/rxdb/pull/30) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-5. ❌ Closed PR [#32](https://github.com/ishandutta2007/zone.js/pull/32) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+1. 🗣 Commented on [#37](https://github.com/ishandutta2007/node-botgram/issues/37) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
+2. ❌ Closed PR [#37](https://github.com/ishandutta2007/node-botgram/pull/37) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
+3. ❌ Closed PR [#42](https://github.com/ishandutta2007/facefusion/pull/42) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
+4. 🗣 Commented on [#42](https://github.com/ishandutta2007/facefusion/issues/42) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
+5. 🗣 Commented on [#34](https://github.com/ishandutta2007/zone.js/issues/34) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
 <!--END_SECTION:activity-->
 
 </details>
