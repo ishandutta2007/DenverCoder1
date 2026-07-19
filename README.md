@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#38](https://github.com/ishandutta2007/node-botgram/pull/38) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
-2. 🗣 Commented on [#38](https://github.com/ishandutta2007/node-botgram/issues/38) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
-3. ❌ Closed PR [#43](https://github.com/ishandutta2007/facefusion/pull/43) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
-4. 🗣 Commented on [#43](https://github.com/ishandutta2007/facefusion/issues/43) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
-5. ❌ Closed PR [#36](https://github.com/ishandutta2007/better_bing_image_downloader/pull/36) in [ishandutta2007/better_bing_image_downloader](https://github.com/ishandutta2007/better_bing_image_downloader)
+1. ❌ Closed PR [#39](https://github.com/ishandutta2007/node-botgram/pull/39) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
+2. 🗣 Commented on [#39](https://github.com/ishandutta2007/node-botgram/issues/39) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
+3. 🗣 Commented on [#44](https://github.com/ishandutta2007/facefusion/issues/44) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
+4. ❌ Closed PR [#44](https://github.com/ishandutta2007/facefusion/pull/44) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
+5. ❌ Closed PR [#37](https://github.com/ishandutta2007/better_bing_image_downloader/pull/37) in [ishandutta2007/better_bing_image_downloader](https://github.com/ishandutta2007/better_bing_image_downloader)
 <!--END_SECTION:activity-->
 
 </details>
