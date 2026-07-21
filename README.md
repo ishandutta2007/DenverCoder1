@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#33](https://github.com/ishandutta2007/rxdb/pull/33) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-2. 🗣 Commented on [#33](https://github.com/ishandutta2007/rxdb/issues/33) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
-3. ❌ Closed PR [#39](https://github.com/ishandutta2007/node-botgram/pull/39) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
-4. 🗣 Commented on [#39](https://github.com/ishandutta2007/node-botgram/issues/39) in [ishandutta2007/node-botgram](https://github.com/ishandutta2007/node-botgram)
-5. 🗣 Commented on [#44](https://github.com/ishandutta2007/facefusion/issues/44) in [ishandutta2007/facefusion](https://github.com/ishandutta2007/facefusion)
+1. ❌ Closed PR [#34](https://github.com/ishandutta2007/rxdb/pull/34) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+2. 🗣 Commented on [#34](https://github.com/ishandutta2007/rxdb/issues/34) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+3. ❌ Closed PR [#414](https://github.com/ishandutta2007/DenverCoder1/pull/414) in [ishandutta2007/DenverCoder1](https://github.com/ishandutta2007/DenverCoder1)
+4. 🗣 Commented on [#414](https://github.com/ishandutta2007/DenverCoder1/issues/414) in [ishandutta2007/DenverCoder1](https://github.com/ishandutta2007/DenverCoder1)
+5. ❌ Closed PR [#37](https://github.com/ishandutta2007/zone.js/pull/37) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
 <!--END_SECTION:activity-->
 
 </details>
