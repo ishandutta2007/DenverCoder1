@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7](https://github.com/ishandutta2007/awesome-ai-apis/issues/7) in [ishandutta2007/awesome-ai-apis](https://github.com/ishandutta2007/awesome-ai-apis)
-2. 🗣 Commented on [#3](https://github.com/ishandutta2007/awesome-ai-apis/issues/3) in [ishandutta2007/awesome-ai-apis](https://github.com/ishandutta2007/awesome-ai-apis)
-3. ❗️ Closed issue [#5](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/5) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
-4. ❗️ Closed issue [#18](https://github.com/ishandutta2007/awesome-ai-tools/issues/18) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
-5. ❗️ Closed issue [#2](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents/issues/2) in [ishandutta2007/Awesome-CLI-Coding-Agents](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents)
+1. ❌ Closed PR [#40](https://github.com/ishandutta2007/zone.js/pull/40) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. 🗣 Commented on [#40](https://github.com/ishandutta2007/zone.js/issues/40) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#42](https://github.com/ishandutta2007/youtube-explore/pull/42) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+4. 🗣 Commented on [#42](https://github.com/ishandutta2007/youtube-explore/issues/42) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+5. ❌ Closed PR [#41](https://github.com/ishandutta2007/WaveView/pull/41) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
 </details>
