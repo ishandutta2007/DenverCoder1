@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#50](https://github.com/ishandutta2007/vinaysomawat.github.io/pull/50) in [ishandutta2007/vinaysomawat.github.io](https://github.com/ishandutta2007/vinaysomawat.github.io)
-2. 🗣 Commented on [#50](https://github.com/ishandutta2007/vinaysomawat.github.io/issues/50) in [ishandutta2007/vinaysomawat.github.io](https://github.com/ishandutta2007/vinaysomawat.github.io)
-3. ❌ Closed PR [#45](https://github.com/ishandutta2007/train-robot-arm-from-scratch/pull/45) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-4. 🗣 Commented on [#45](https://github.com/ishandutta2007/train-robot-arm-from-scratch/issues/45) in [ishandutta2007/train-robot-arm-from-scratch](https://github.com/ishandutta2007/train-robot-arm-from-scratch)
-5. ❌ Closed PR [#45](https://github.com/ishandutta2007/crystal-range-seekbar/pull/45) in [ishandutta2007/crystal-range-seekbar](https://github.com/ishandutta2007/crystal-range-seekbar)
+1. ❌ Closed PR [#46](https://github.com/ishandutta2007/Theano/pull/46) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+2. 🗣 Commented on [#46](https://github.com/ishandutta2007/Theano/issues/46) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+3. ❌ Closed PR [#43](https://github.com/ishandutta2007/srs/pull/43) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+4. 🗣 Commented on [#43](https://github.com/ishandutta2007/srs/issues/43) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+5. ❌ Closed PR [#39](https://github.com/ishandutta2007/rxdb/pull/39) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
 <!--END_SECTION:activity-->
 
 </details>
