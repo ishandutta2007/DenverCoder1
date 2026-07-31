@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#46](https://github.com/ishandutta2007/Theano/pull/46) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
-2. 🗣 Commented on [#46](https://github.com/ishandutta2007/Theano/issues/46) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
-3. ❌ Closed PR [#43](https://github.com/ishandutta2007/srs/pull/43) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
-4. 🗣 Commented on [#43](https://github.com/ishandutta2007/srs/issues/43) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
-5. ❌ Closed PR [#39](https://github.com/ishandutta2007/rxdb/pull/39) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
+1. ❌ Closed PR [#47](https://github.com/ishandutta2007/Theano/pull/47) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+2. 🗣 Commented on [#47](https://github.com/ishandutta2007/Theano/issues/47) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+3. ❌ Closed PR [#44](https://github.com/ishandutta2007/srs/pull/44) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+4. 🗣 Commented on [#44](https://github.com/ishandutta2007/srs/issues/44) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+5. ❌ Closed PR [#40](https://github.com/ishandutta2007/rxdb/pull/40) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
 <!--END_SECTION:activity-->
 
 </details>
