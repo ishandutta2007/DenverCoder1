@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#45](https://github.com/ishandutta2007/zone.js/issues/45) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-2. ❌ Closed PR [#45](https://github.com/ishandutta2007/zone.js/pull/45) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-3. ❌ Closed PR [#47](https://github.com/ishandutta2007/youtube-explore/pull/47) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-4. 🗣 Commented on [#47](https://github.com/ishandutta2007/youtube-explore/issues/47) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-5. ❌ Closed PR [#48](https://github.com/ishandutta2007/nativescript-plugin-firebase-demo/pull/48) in [ishandutta2007/nativescript-plugin-firebase-demo](https://github.com/ishandutta2007/nativescript-plugin-firebase-demo)
+1. ❌ Closed PR [#48](https://github.com/ishandutta2007/Theano/pull/48) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+2. 🗣 Commented on [#48](https://github.com/ishandutta2007/Theano/issues/48) in [ishandutta2007/Theano](https://github.com/ishandutta2007/Theano)
+3. ❌ Closed PR [#45](https://github.com/ishandutta2007/srs/pull/45) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+4. 🗣 Commented on [#45](https://github.com/ishandutta2007/srs/issues/45) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+5. ❌ Closed PR [#41](https://github.com/ishandutta2007/rxdb/pull/41) in [ishandutta2007/rxdb](https://github.com/ishandutta2007/rxdb)
 <!--END_SECTION:activity-->
 
 </details>
