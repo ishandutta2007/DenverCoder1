@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#47](https://github.com/ishandutta2007/zone.js/pull/47) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-2. 🗣 Commented on [#47](https://github.com/ishandutta2007/zone.js/issues/47) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-3. 🗣 Commented on [#49](https://github.com/ishandutta2007/youtube-explore/issues/49) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-4. ❌ Closed PR [#49](https://github.com/ishandutta2007/youtube-explore/pull/49) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-5. 🗣 Commented on [#47](https://github.com/ishandutta2007/WaveView/issues/47) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+1. 🗣 Commented on [#50](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/issues/50) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
+2. ❌ Closed PR [#50](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/pull/50) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
+3. ❌ Closed PR [#50](https://github.com/ishandutta2007/ganache-cli/pull/50) in [ishandutta2007/ganache-cli](https://github.com/ishandutta2007/ganache-cli)
+4. 🗣 Commented on [#50](https://github.com/ishandutta2007/ganache-cli/issues/50) in [ishandutta2007/ganache-cli](https://github.com/ishandutta2007/ganache-cli)
+5. 🗣 Commented on [#49](https://github.com/ishandutta2007/awesome-tensorflow/issues/49) in [ishandutta2007/awesome-tensorflow](https://github.com/ishandutta2007/awesome-tensorflow)
 <!--END_SECTION:activity-->
 
 </details>
