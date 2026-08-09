@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#50](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/issues/50) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
-2. ❌ Closed PR [#50](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/pull/50) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
-3. ❌ Closed PR [#50](https://github.com/ishandutta2007/ganache-cli/pull/50) in [ishandutta2007/ganache-cli](https://github.com/ishandutta2007/ganache-cli)
-4. 🗣 Commented on [#50](https://github.com/ishandutta2007/ganache-cli/issues/50) in [ishandutta2007/ganache-cli](https://github.com/ishandutta2007/ganache-cli)
-5. 🗣 Commented on [#49](https://github.com/ishandutta2007/awesome-tensorflow/issues/49) in [ishandutta2007/awesome-tensorflow](https://github.com/ishandutta2007/awesome-tensorflow)
+1. ❌ Closed PR [#51](https://github.com/ishandutta2007/srs/pull/51) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+2. 🗣 Commented on [#51](https://github.com/ishandutta2007/srs/issues/51) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
+3. ❌ Closed PR [#51](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/pull/51) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
+4. 🗣 Commented on [#51](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/issues/51) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
+5. ❌ Closed PR [#51](https://github.com/ishandutta2007/ganache-cli/pull/51) in [ishandutta2007/ganache-cli](https://github.com/ishandutta2007/ganache-cli)
 <!--END_SECTION:activity-->
 
 </details>
