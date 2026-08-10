@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#51](https://github.com/ishandutta2007/srs/pull/51) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
-2. 🗣 Commented on [#51](https://github.com/ishandutta2007/srs/issues/51) in [ishandutta2007/srs](https://github.com/ishandutta2007/srs)
-3. ❌ Closed PR [#51](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/pull/51) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
-4. 🗣 Commented on [#51](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples/issues/51) in [ishandutta2007/Neural-Voice-Cloning-with-Few-Samples](https://github.com/ishandutta2007/Neural-Voice-Cloning-with-Few-Samples)
-5. ❌ Closed PR [#51](https://github.com/ishandutta2007/ganache-cli/pull/51) in [ishandutta2007/ganache-cli](https://github.com/ishandutta2007/ganache-cli)
+1. ❌ Closed PR [#52](https://github.com/ishandutta2007/zone.js/pull/52) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. 🗣 Commented on [#52](https://github.com/ishandutta2007/zone.js/issues/52) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#54](https://github.com/ishandutta2007/youtube-explore/pull/54) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+4. 🗣 Commented on [#54](https://github.com/ishandutta2007/youtube-explore/issues/54) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+5. ❌ Closed PR [#53](https://github.com/ishandutta2007/WaveView/pull/53) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
 </details>
