@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#33](https://github.com/ishandutta2007/awesome-ai-tools/pull/33) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
-2. ❌ Closed PR [#6](https://github.com/ishandutta2007/Awesome-Video-Gen/pull/6) in [ishandutta2007/Awesome-Video-Gen](https://github.com/ishandutta2007/Awesome-Video-Gen)
-3. ❌ Closed PR [#2](https://github.com/ishandutta2007/Awesome-Domain-Monitoring-Platform/pull/2) in [ishandutta2007/Awesome-Domain-Monitoring-Platform](https://github.com/ishandutta2007/Awesome-Domain-Monitoring-Platform)
-4. ❌ Closed PR [#1](https://github.com/ishandutta2007/International-Migrant-Workers/pull/1) in [ishandutta2007/International-Migrant-Workers](https://github.com/ishandutta2007/International-Migrant-Workers)
-5. ❌ Closed PR [#53](https://github.com/ishandutta2007/WaveView/pull/53) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
+1. 🗣 Commented on [#21](https://github.com/ishandutta2007/awesome-ai-tools/issues/21) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
+2. 🗣 Commented on [#27](https://github.com/ishandutta2007/awesome-ai-tools/issues/27) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
+3. 🗣 Commented on [#30](https://github.com/ishandutta2007/awesome-ai-tools/issues/30) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
+4. ❌ Closed PR [#1](https://github.com/ishandutta2007/OmniTune/pull/1) in [ishandutta2007/OmniTune](https://github.com/ishandutta2007/OmniTune)
+5. ❌ Closed PR [#33](https://github.com/ishandutta2007/awesome-ai-tools/pull/33) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
 <!--END_SECTION:activity-->
 
 </details>
