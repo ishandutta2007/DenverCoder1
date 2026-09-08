@@ -283,10 +283,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#7](https://github.com/ishandutta2007/notebooklm-api/pull/7) in [ishandutta2007/notebooklm-api](https://github.com/ishandutta2007/notebooklm-api)
-2. ❌ Closed PR [#5](https://github.com/ishandutta2007/notebooklm-api/pull/5) in [ishandutta2007/notebooklm-api](https://github.com/ishandutta2007/notebooklm-api)
-3. ❌ Closed PR [#6](https://github.com/ishandutta2007/notebooklm-api/pull/6) in [ishandutta2007/notebooklm-api](https://github.com/ishandutta2007/notebooklm-api)
-4. 🗣 Commented on [#54](https://github.com/ishandutta2007/youtube-explore/issues/54) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+1. ❌ Closed PR [#33](https://github.com/ishandutta2007/awesome-ai-tools/pull/33) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
+2. ❌ Closed PR [#6](https://github.com/ishandutta2007/Awesome-Video-Gen/pull/6) in [ishandutta2007/Awesome-Video-Gen](https://github.com/ishandutta2007/Awesome-Video-Gen)
+3. ❌ Closed PR [#2](https://github.com/ishandutta2007/Awesome-Domain-Monitoring-Platform/pull/2) in [ishandutta2007/Awesome-Domain-Monitoring-Platform](https://github.com/ishandutta2007/Awesome-Domain-Monitoring-Platform)
+4. ❌ Closed PR [#1](https://github.com/ishandutta2007/International-Migrant-Workers/pull/1) in [ishandutta2007/International-Migrant-Workers](https://github.com/ishandutta2007/International-Migrant-Workers)
 5. ❌ Closed PR [#53](https://github.com/ishandutta2007/WaveView/pull/53) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
