@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/ishandutta2007/test/issues/2) in [ishandutta2007/test](https://github.com/ishandutta2007/test)
-2. 🗣 Commented on [#1](https://github.com/ishandutta2007/socialbladescraper/issues/1) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-3. 🗣 Commented on [#2](https://github.com/ishandutta2007/socialbladescraper/issues/2) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-4. 🗣 Commented on [#3](https://github.com/ishandutta2007/socialbladescraper/issues/3) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-5. 🗣 Commented on [#4](https://github.com/ishandutta2007/socialbladescraper/issues/4) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
+1. ❌ Closed PR [#59](https://github.com/ishandutta2007/zone.js/pull/59) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+2. 🗣 Commented on [#59](https://github.com/ishandutta2007/zone.js/issues/59) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
+3. ❌ Closed PR [#61](https://github.com/ishandutta2007/youtube-explore/pull/61) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+4. 🗣 Commented on [#61](https://github.com/ishandutta2007/youtube-explore/issues/61) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+5. ❌ Closed PR [#60](https://github.com/ishandutta2007/WaveView/pull/60) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
 </details>
