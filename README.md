@@ -283,10 +283,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#59](https://github.com/ishandutta2007/zone.js/pull/59) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-2. 🗣 Commented on [#59](https://github.com/ishandutta2007/zone.js/issues/59) in [ishandutta2007/zone.js](https://github.com/ishandutta2007/zone.js)
-3. ❌ Closed PR [#61](https://github.com/ishandutta2007/youtube-explore/pull/61) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
-4. 🗣 Commented on [#61](https://github.com/ishandutta2007/youtube-explore/issues/61) in [ishandutta2007/youtube-explore](https://github.com/ishandutta2007/youtube-explore)
+1. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-Chemical-Registration/pull/1) in [ishandutta2007/Awesome-Chemical-Registration](https://github.com/ishandutta2007/Awesome-Chemical-Registration)
+2. ❌ Closed PR [#1](https://github.com/ishandutta2007/Top-Acqui-Hires/pull/1) in [ishandutta2007/Top-Acqui-Hires](https://github.com/ishandutta2007/Top-Acqui-Hires)
+3. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-Billing/pull/1) in [ishandutta2007/Awesome-Billing](https://github.com/ishandutta2007/Awesome-Billing)
+4. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-Cloud-Metering-Platform/pull/1) in [ishandutta2007/Awesome-Cloud-Metering-Platform](https://github.com/ishandutta2007/Awesome-Cloud-Metering-Platform)
 5. ❌ Closed PR [#60](https://github.com/ishandutta2007/WaveView/pull/60) in [ishandutta2007/WaveView](https://github.com/ishandutta2007/WaveView)
 <!--END_SECTION:activity-->
 
