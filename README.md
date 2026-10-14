@@ -283,7 +283,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#152](https://github.com/ishandutta2007/beautiful-github-homepage/issues/152) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+1. 🗣 Commented on [#283](https://github.com/ishandutta2007/cli/issues/283) in [ishandutta2007/cli](https://github.com/ishandutta2007/cli)
 2. 🗣 Commented on [#156](https://github.com/ishandutta2007/beautiful-github-homepage/issues/156) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
 3. 🗣 Commented on [#33](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/33) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
 4. 🗣 Commented on [#32](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/32) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
