@@ -283,9 +283,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/ishandutta2007/test/issues/2) in [ishandutta2007/test](https://github.com/ishandutta2007/test)
-2. 🗣 Commented on [#4](https://github.com/ishandutta2007/socialbladescraper/issues/4) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-3. 🗣 Commented on [#9](https://github.com/ishandutta2007/socialbladescraper/issues/9) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
+1. 🗣 Commented on [#65](https://github.com/ishandutta2007/beautiful-github-homepage/issues/65) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+2. 🗣 Commented on [#50](https://github.com/ishandutta2007/beautiful-github-homepage/issues/50) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+3. 🗣 Commented on [#130](https://github.com/ishandutta2007/beautiful-github-homepage/issues/130) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
 4. 🗣 Commented on [#2](https://github.com/ishandutta2007/reach-github-issuers/issues/2) in [ishandutta2007/reach-github-issuers](https://github.com/ishandutta2007/reach-github-issuers)
 5. 🗣 Commented on [#4](https://github.com/ishandutta2007/reach-github-issuers/issues/4) in [ishandutta2007/reach-github-issuers](https://github.com/ishandutta2007/reach-github-issuers)
 <!--END_SECTION:activity-->
