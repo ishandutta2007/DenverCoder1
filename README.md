@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#65](https://github.com/ishandutta2007/beautiful-github-homepage/issues/65) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-2. 🗣 Commented on [#50](https://github.com/ishandutta2007/beautiful-github-homepage/issues/50) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-3. 🗣 Commented on [#130](https://github.com/ishandutta2007/beautiful-github-homepage/issues/130) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-4. 🗣 Commented on [#2](https://github.com/ishandutta2007/reach-github-issuers/issues/2) in [ishandutta2007/reach-github-issuers](https://github.com/ishandutta2007/reach-github-issuers)
-5. 🗣 Commented on [#4](https://github.com/ishandutta2007/reach-github-issuers/issues/4) in [ishandutta2007/reach-github-issuers](https://github.com/ishandutta2007/reach-github-issuers)
+1. 🗣 Commented on [#1](https://github.com/ishandutta2007/beautiful-github-homepage/issues/1) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+2. 🗣 Commented on [#2](https://github.com/ishandutta2007/beautiful-github-homepage/issues/2) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+3. 🗣 Commented on [#4](https://github.com/ishandutta2007/beautiful-github-homepage/issues/4) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+4. 🗣 Commented on [#5](https://github.com/ishandutta2007/beautiful-github-homepage/issues/5) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+5. 🗣 Commented on [#6](https://github.com/ishandutta2007/beautiful-github-homepage/issues/6) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
 <!--END_SECTION:activity-->
 
 </details>
