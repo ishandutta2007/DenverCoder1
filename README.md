@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/ishandutta2007/beautiful-github-homepage/issues/1) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-2. 🗣 Commented on [#2](https://github.com/ishandutta2007/beautiful-github-homepage/issues/2) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-3. 🗣 Commented on [#4](https://github.com/ishandutta2007/beautiful-github-homepage/issues/4) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-4. 🗣 Commented on [#5](https://github.com/ishandutta2007/beautiful-github-homepage/issues/5) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
-5. 🗣 Commented on [#6](https://github.com/ishandutta2007/beautiful-github-homepage/issues/6) in [ishandutta2007/beautiful-github-homepage](https://github.com/ishandutta2007/beautiful-github-homepage)
+1. ❌ Merged PR [#308](https://github.com/jnv/lists/pull/308) in [jnv/lists](https://github.com/jnv/lists)
+2. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-AI-HR/issues/3) in [ishandutta2007/Awesome-AI-HR](https://github.com/ishandutta2007/Awesome-AI-HR)
+3. 🗣 Commented on [#3](https://github.com/ishandutta2007/socialbladescraper/issues/3) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
+4. 🗣 Commented on [#2](https://github.com/ishandutta2007/search-competetor-customer-in-gmail/issues/2) in [ishandutta2007/search-competetor-customer-in-gmail](https://github.com/ishandutta2007/search-competetor-customer-in-gmail)
+5. 🗣 Commented on [#1](https://github.com/ishandutta2007/RitetagPy/issues/1) in [ishandutta2007/RitetagPy](https://github.com/ishandutta2007/RitetagPy)
 <!--END_SECTION:activity-->
 
 </details>
