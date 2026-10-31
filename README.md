@@ -283,7 +283,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#308](https://github.com/jnv/lists/pull/308) in [jnv/lists](https://github.com/jnv/lists)
+1. 🗣 Commented on [#32](https://github.com/ishandutta2007/notebooklm-api/issues/32) in [ishandutta2007/notebooklm-api](https://github.com/ishandutta2007/notebooklm-api)
 2. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-AI-HR/issues/3) in [ishandutta2007/Awesome-AI-HR](https://github.com/ishandutta2007/Awesome-AI-HR)
 3. 🗣 Commented on [#3](https://github.com/ishandutta2007/socialbladescraper/issues/3) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
 4. 🗣 Commented on [#2](https://github.com/ishandutta2007/search-competetor-customer-in-gmail/issues/2) in [ishandutta2007/search-competetor-customer-in-gmail](https://github.com/ishandutta2007/search-competetor-customer-in-gmail)
