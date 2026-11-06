@@ -283,10 +283,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#32](https://github.com/ishandutta2007/notebooklm-api/issues/32) in [ishandutta2007/notebooklm-api](https://github.com/ishandutta2007/notebooklm-api)
-2. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-AI-HR/issues/3) in [ishandutta2007/Awesome-AI-HR](https://github.com/ishandutta2007/Awesome-AI-HR)
-3. 🗣 Commented on [#3](https://github.com/ishandutta2007/socialbladescraper/issues/3) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-4. 🗣 Commented on [#2](https://github.com/ishandutta2007/search-competetor-customer-in-gmail/issues/2) in [ishandutta2007/search-competetor-customer-in-gmail](https://github.com/ishandutta2007/search-competetor-customer-in-gmail)
+1. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-SEO-Content-Optimization/issues/2) in [ishandutta2007/Awesome-SEO-Content-Optimization](https://github.com/ishandutta2007/Awesome-SEO-Content-Optimization)
+2. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-Construction-Field-Management/issues/3) in [ishandutta2007/Awesome-Construction-Field-Management](https://github.com/ishandutta2007/Awesome-Construction-Field-Management)
+3. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-Tournament-Management/issues/3) in [ishandutta2007/Awesome-Tournament-Management](https://github.com/ishandutta2007/Awesome-Tournament-Management)
+4. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations/issues/1) in [ishandutta2007/Awesome-Short-Term-Rental-Operations](https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations)
 5. 🗣 Commented on [#1](https://github.com/ishandutta2007/RitetagPy/issues/1) in [ishandutta2007/RitetagPy](https://github.com/ishandutta2007/RitetagPy)
 <!--END_SECTION:activity-->
 
