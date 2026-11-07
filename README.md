@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-SEO-Content-Optimization/issues/2) in [ishandutta2007/Awesome-SEO-Content-Optimization](https://github.com/ishandutta2007/Awesome-SEO-Content-Optimization)
-2. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-Construction-Field-Management/issues/3) in [ishandutta2007/Awesome-Construction-Field-Management](https://github.com/ishandutta2007/Awesome-Construction-Field-Management)
-3. 🗣 Commented on [#3](https://github.com/ishandutta2007/Awesome-Tournament-Management/issues/3) in [ishandutta2007/Awesome-Tournament-Management](https://github.com/ishandutta2007/Awesome-Tournament-Management)
-4. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations/issues/1) in [ishandutta2007/Awesome-Short-Term-Rental-Operations](https://github.com/ishandutta2007/Awesome-Short-Term-Rental-Operations)
-5. 🗣 Commented on [#1](https://github.com/ishandutta2007/RitetagPy/issues/1) in [ishandutta2007/RitetagPy](https://github.com/ishandutta2007/RitetagPy)
+1. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Retail-Inventory-Management/issues/2) in [ishandutta2007/Awesome-Retail-Inventory-Management](https://github.com/ishandutta2007/Awesome-Retail-Inventory-Management)
+2. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Inventory/issues/2) in [ishandutta2007/Awesome-Inventory](https://github.com/ishandutta2007/Awesome-Inventory)
+3. 🗣 Commented on [#59](https://github.com/ishandutta2007/awesome-ai-tools/issues/59) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
+4. 🗣 Commented on [#4](https://github.com/ishandutta2007/Awesome-Inventory-Management/issues/4) in [ishandutta2007/Awesome-Inventory-Management](https://github.com/ishandutta2007/Awesome-Inventory-Management)
+5. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Enterprise-Search-Internal-Memory-Layers/issues/1) in [ishandutta2007/Awesome-Enterprise-Search-Internal-Memory-Layers](https://github.com/ishandutta2007/Awesome-Enterprise-Search-Internal-Memory-Layers)
 <!--END_SECTION:activity-->
 
 </details>
