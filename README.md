@@ -283,8 +283,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Retail-Inventory-Management/issues/2) in [ishandutta2007/Awesome-Retail-Inventory-Management](https://github.com/ishandutta2007/Awesome-Retail-Inventory-Management)
-2. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Inventory/issues/2) in [ishandutta2007/Awesome-Inventory](https://github.com/ishandutta2007/Awesome-Inventory)
+1. ❌ Closed PR [#21](https://github.com/ishandutta2007/Awesome-Agent-Orchestration-Platforms/pull/21) in [ishandutta2007/Awesome-Agent-Orchestration-Platforms](https://github.com/ishandutta2007/Awesome-Agent-Orchestration-Platforms)
+2. 🗣 Commented on [#21](https://github.com/ishandutta2007/Awesome-Agent-Orchestration-Platforms/issues/21) in [ishandutta2007/Awesome-Agent-Orchestration-Platforms](https://github.com/ishandutta2007/Awesome-Agent-Orchestration-Platforms)
 3. 🗣 Commented on [#59](https://github.com/ishandutta2007/awesome-ai-tools/issues/59) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
 4. 🗣 Commented on [#4](https://github.com/ishandutta2007/Awesome-Inventory-Management/issues/4) in [ishandutta2007/Awesome-Inventory-Management](https://github.com/ishandutta2007/Awesome-Inventory-Management)
 5. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Enterprise-Search-Internal-Memory-Layers/issues/1) in [ishandutta2007/Awesome-Enterprise-Search-Internal-Memory-Layers](https://github.com/ishandutta2007/Awesome-Enterprise-Search-Internal-Memory-Layers)
