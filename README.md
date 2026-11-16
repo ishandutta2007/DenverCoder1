@@ -283,8 +283,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-API-Request-History-Audit-Logging/issues/1) in [ishandutta2007/Awesome-API-Request-History-Audit-Logging](https://github.com/ishandutta2007/Awesome-API-Request-History-Audit-Logging)
-2. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-API-Request-History-Audit-Logging/pull/1) in [ishandutta2007/Awesome-API-Request-History-Audit-Logging](https://github.com/ishandutta2007/Awesome-API-Request-History-Audit-Logging)
+1. ❌ Closed PR [#39](https://github.com/ishandutta2007/Awesome-Text-to-Speech/pull/39) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
+2. 🗣 Commented on [#39](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/39) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
 3. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Fraud-Prevention-API/issues/2) in [ishandutta2007/Awesome-Fraud-Prevention-API](https://github.com/ishandutta2007/Awesome-Fraud-Prevention-API)
 4. 🗣 Commented on [#40](https://github.com/ishandutta2007/awesome-ai-tools/issues/40) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
 5. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Remote-Patient-Monitoring/issues/1) in [ishandutta2007/Awesome-Remote-Patient-Monitoring](https://github.com/ishandutta2007/Awesome-Remote-Patient-Monitoring)
