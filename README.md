@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#39](https://github.com/ishandutta2007/Awesome-Text-to-Speech/pull/39) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
-2. 🗣 Commented on [#39](https://github.com/ishandutta2007/Awesome-Text-to-Speech/issues/39) in [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
-3. 🗣 Commented on [#2](https://github.com/ishandutta2007/Awesome-Fraud-Prevention-API/issues/2) in [ishandutta2007/Awesome-Fraud-Prevention-API](https://github.com/ishandutta2007/Awesome-Fraud-Prevention-API)
-4. 🗣 Commented on [#40](https://github.com/ishandutta2007/awesome-ai-tools/issues/40) in [ishandutta2007/awesome-ai-tools](https://github.com/ishandutta2007/awesome-ai-tools)
-5. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Remote-Patient-Monitoring/issues/1) in [ishandutta2007/Awesome-Remote-Patient-Monitoring](https://github.com/ishandutta2007/Awesome-Remote-Patient-Monitoring)
+1. 🗣 Commented on [#3](https://github.com/ishandutta2007/github-slideshow/issues/3) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
+2. 🗣 Commented on [#4](https://github.com/ishandutta2007/github-slideshow/issues/4) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
+3. 🗣 Commented on [#5](https://github.com/ishandutta2007/github-slideshow/issues/5) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
+4. 🗣 Commented on [#6](https://github.com/ishandutta2007/github-slideshow/issues/6) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
+5. 🗣 Commented on [#283](https://github.com/ishandutta2007/cli/issues/283) in [ishandutta2007/cli](https://github.com/ishandutta2007/cli)
 <!--END_SECTION:activity-->
 
 </details>
