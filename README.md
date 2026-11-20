@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/ishandutta2007/github-slideshow/issues/3) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
-2. 🗣 Commented on [#4](https://github.com/ishandutta2007/github-slideshow/issues/4) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
-3. 🗣 Commented on [#5](https://github.com/ishandutta2007/github-slideshow/issues/5) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
-4. 🗣 Commented on [#6](https://github.com/ishandutta2007/github-slideshow/issues/6) in [ishandutta2007/github-slideshow](https://github.com/ishandutta2007/github-slideshow)
-5. 🗣 Commented on [#283](https://github.com/ishandutta2007/cli/issues/283) in [ishandutta2007/cli](https://github.com/ishandutta2007/cli)
+1. 🗣 Commented on [#1](https://github.com/ishandutta2007/socialbladescraper/issues/1) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
+2. 🗣 Commented on [#7](https://github.com/ishandutta2007/socialbladescraper/issues/7) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
+3. 🗣 Commented on [#4](https://github.com/ishandutta2007/reach-github-issuers/issues/4) in [ishandutta2007/reach-github-issuers](https://github.com/ishandutta2007/reach-github-issuers)
+4. 🗣 Commented on [#4](https://github.com/ishandutta2007/reach-github-contributors/issues/4) in [ishandutta2007/reach-github-contributors](https://github.com/ishandutta2007/reach-github-contributors)
+5. 🗣 Commented on [#3](https://github.com/ishandutta2007/cgal/issues/3) in [ishandutta2007/cgal](https://github.com/ishandutta2007/cgal)
 <!--END_SECTION:activity-->
 
 </details>
