@@ -283,11 +283,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/ishandutta2007/socialbladescraper/issues/1) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-2. 🗣 Commented on [#7](https://github.com/ishandutta2007/socialbladescraper/issues/7) in [ishandutta2007/socialbladescraper](https://github.com/ishandutta2007/socialbladescraper)
-3. 🗣 Commented on [#4](https://github.com/ishandutta2007/reach-github-issuers/issues/4) in [ishandutta2007/reach-github-issuers](https://github.com/ishandutta2007/reach-github-issuers)
-4. 🗣 Commented on [#4](https://github.com/ishandutta2007/reach-github-contributors/issues/4) in [ishandutta2007/reach-github-contributors](https://github.com/ishandutta2007/reach-github-contributors)
-5. 🗣 Commented on [#3](https://github.com/ishandutta2007/cgal/issues/3) in [ishandutta2007/cgal](https://github.com/ishandutta2007/cgal)
+1. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security/pull/1) in [ishandutta2007/Awesome-VPN-DNS-Network-Security](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security)
+2. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security/issues/1) in [ishandutta2007/Awesome-VPN-DNS-Network-Security](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security)
+3. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting/pull/1) in [ishandutta2007/Awesome-IT-Event-Management-Alerting](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting)
+4. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting/issues/1) in [ishandutta2007/Awesome-IT-Event-Management-Alerting](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting)
+5. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-Immutable-Backup-Storage-Worm-Locking/pull/1) in [ishandutta2007/Awesome-Immutable-Backup-Storage-Worm-Locking](https://github.com/ishandutta2007/Awesome-Immutable-Backup-Storage-Worm-Locking)
 <!--END_SECTION:activity-->
 
 </details>
