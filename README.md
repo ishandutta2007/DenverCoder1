@@ -283,8 +283,8 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security/pull/1) in [ishandutta2007/Awesome-VPN-DNS-Network-Security](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security)
-2. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security/issues/1) in [ishandutta2007/Awesome-VPN-DNS-Network-Security](https://github.com/ishandutta2007/Awesome-VPN-DNS-Network-Security)
+1. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/pull/1) in [ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives](https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives)
+2. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives/issues/1) in [ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives](https://github.com/ishandutta2007/Awesome-Terminal-System-Information-Neofetch-Alternatives)
 3. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting/pull/1) in [ishandutta2007/Awesome-IT-Event-Management-Alerting](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting)
 4. 🗣 Commented on [#1](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting/issues/1) in [ishandutta2007/Awesome-IT-Event-Management-Alerting](https://github.com/ishandutta2007/Awesome-IT-Event-Management-Alerting)
 5. ❌ Closed PR [#1](https://github.com/ishandutta2007/Awesome-Immutable-Backup-Storage-Worm-Locking/pull/1) in [ishandutta2007/Awesome-Immutable-Backup-Storage-Worm-Locking](https://github.com/ishandutta2007/Awesome-Immutable-Backup-Storage-Worm-Locking)
